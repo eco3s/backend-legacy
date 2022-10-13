@@ -1,5 +1,8 @@
 # Eco3S Backend API & Spec
 
+> **Warning** \
+> 본 저장소는 개발이 중단되었습니다. [새 백엔드 구현체](https://github.com/eco3s/backend)를 사용해 주세요.
+
 ## 개요
 
 `eco3s` 서비스에서 사용할, API명세와 백엔드 로직을 관리하는 레포지토리입니다.
